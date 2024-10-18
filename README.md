@@ -27,3 +27,27 @@ Para poner en funcionamiento el proyecto Trebachet, sigue los siguientes pasos d
 
 Requisitos Previos
 Antes de comenzar la instalación, asegúrate de tener instalado:
+
+## Instrucciones operaciones
+
+Para utilizar Tebrachet de manera efectiva, sigue los pasos detallados a continuación. Asegúrate de revisar las imágenes y gráficos que acompañan cada paso para facilitar tu comprensión del proceso.
+
+1. Acceso a la Plataforma
+Paso 1.1: Abre tu navegador web e ingresa la URL de Tebrachet: www.tebrachet.com.
+Paso 1.2: Si ya tienes una cuenta, haz clic en el botón "Iniciar Sesión" e ingresa tus credenciales. Si aún no te has registrado, selecciona "Crear Cuenta" y sigue las instrucciones de registro, que incluyen tu nombre, correo electrónico y contraseña.
+2. Configuración Inicial
+Paso 2.1: Una vez dentro, tendrás acceso al panel principal. Antes de empezar, dirígete a la sección "Configuración" para personalizar tu perfil y ajustar las preferencias de notificaciones y accesibilidad.
+Paso 2.2: Configura tus herramientas seleccionando las aplicaciones que vas a utilizar dentro de Tebrachet. Puedes arrastrar y soltar las que más te interesen desde el menú lateral hacia el panel de inicio.
+3. Inicio de un Nuevo Proyecto
+Paso 3.1: En la pantalla principal, haz clic en "Nuevo Proyecto" para iniciar tu primera experiencia en Tebrachet.
+Paso 3.2: Selecciona el tipo de proyecto que deseas crear (educativo, técnico, creativo, etc.) y elige las herramientas que se adapten a tus necesidades.
+Paso 3.3: Personaliza las configuraciones del proyecto según tus requerimientos específicos, como el número de colaboradores, duración y accesibilidad.
+4. Colaboración en Tiempo Real
+Paso 4.1: Usa la función "Colaborar" para invitar a otros usuarios a tu proyecto. Puedes enviar invitaciones a través de correo electrónico o generando un enlace compartido.
+Paso 4.2: El área de trabajo compartido permite que varios usuarios editen y vean el proyecto en tiempo real. Cada usuario puede hacer aportaciones a través de comentarios, notas y ediciones directas.
+5. Guardado y Exportación
+Paso 5.1: El proyecto se guarda automáticamente en intervalos regulares, pero también puedes hacer clic en "Guardar" en cualquier momento.
+Paso 5.2: Una vez finalizado, selecciona "Exportar" para generar el formato final de tu proyecto (PDF, Word, Excel, etc.). Puedes también subirlo a la nube o compartirlo con otros directamente desde Tebrachet.
+6. Solución de Problemas
+Paso 6.1: Si encuentras dificultades, ve a la sección de "Ayuda" en el menú superior derecho. Aquí encontrarás una base de conocimientos con respuestas a preguntas frecuentes y tutoriales en video.
+Paso 6.2: También puedes contactar con el soporte técnico a través del chat en vivo disponible 24/7 o enviando un correo a soporte@tebrachet.com.
