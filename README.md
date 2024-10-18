@@ -51,3 +51,13 @@ Paso 5.2: Una vez finalizado, selecciona "Exportar" para generar el formato fina
 6. Solución de Problemas
 Paso 6.1: Si encuentras dificultades, ve a la sección de "Ayuda" en el menú superior derecho. Aquí encontrarás una base de conocimientos con respuestas a preguntas frecuentes y tutoriales en video.
 Paso 6.2: También puedes contactar con el soporte técnico a través del chat en vivo disponible 24/7 o enviando un correo a soporte@tebrachet.com.
+## Agradecimientos
+Queremos expresar nuestro agradecimiento a todas las personas y comunidades que han contribuido al desarrollo del proyecto Trebachet. Sin su apoyo y colaboración, este proyecto no sería posible.
+
+A nuestros mentores: Gracias por guiarnos y compartir su experiencia a lo largo de este viaje.
+A la comunidad de código abierto: Por proporcionar herramientas y recursos que nos han ayudado a superar obstáculos y mejorar nuestro trabajo.
+A nuestros amigos y familiares: Por su paciencia y aliento constante durante el desarrollo del proyecto.
+Un agradecimiento especial también a los siguientes proyectos y bibliotecas que han servido de inspiración:
+
+Proyecto A
+Proyecto B
